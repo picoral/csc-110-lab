@@ -16,7 +16,7 @@ Your program should be able to print different cars based on the width of the ca
 #| echo: true
 width = 0
 car = build_car(width)
-print(car)
+print(car, end="")
 ```
 
 <pre>
@@ -34,7 +34,7 @@ D     ||  <>    |------+
 #| echo: true
 width = 5
 car = build_car(width)
-print(car)
+print(car, end="")
 ```
 
 <pre>
@@ -52,7 +52,7 @@ D     ||       <>    |------+
 #| echo: true
 width = 12
 car = build_car(width)
-print(car)
+print(car, end="")
 ```
 
 <pre>
