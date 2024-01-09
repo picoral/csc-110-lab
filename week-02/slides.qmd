@@ -1,0 +1,30 @@
+---
+title: "Python Functions"
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+---
+
+## Writing a function
+
+* Start with `def` followed by the name of the function
+* Add parameters inside the parentheses in the function definition
+* Return a value
+
+```{python}
+#| echo: true
+def double(n):
+  result = n * 2
+  return result
+
+def main():
+  print( double(5) )
+
+main()
+```
+
+
+## Using `round()`
+
+## Using `format()`
