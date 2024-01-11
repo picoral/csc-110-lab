@@ -27,4 +27,57 @@ main()
 
 ## Using `round()`
 
+Use the round() function to get a floating-point number rounded to the specified number of decimals.
+
+Syntax:
+
+```{python}
+#| echo: true
+#| eval: false
+round(number, ndigits*)
+```
+
+The number of digits (`ndigits`) is optional, but we will often round number to two decimals:
+
+```{python}
+#| echo: true
+#| eval: true
+round(392.68750000000006)
+```
+
+
+```{python}
+#| echo: true
+#| eval: true
+round(392.68750000000006, 2)
+```
+
 ## Using `format()`
+
+
+```{python}
+#| echo: true
+#| eval: true
+age = 20
+name = 'Philip'
+```
+
+Here's how we can do concatenation using the  `+` operator:
+
+```{python}
+#| echo: true
+#| eval: true
+name + ' is ' + str(age) + ' years old'
+```
+
+We can do the same with the `.format()` method, using `{}` as place holders for our variables:
+
+```{python}
+#| echo: true
+#| eval: true
+'{} is {} years old'.format(name, age)
+```
+
+
+
+
