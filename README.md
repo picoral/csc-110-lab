@@ -3,10 +3,10 @@
 ## Week 1
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-01/slides.html)
+-   <a href="http://www.youtube.com/watch?feature=player_embedded&v=vbuawW6R9kI" target="_blank">Video Demonstration -- Slides</a>
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-01/short-project.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vbuawW6R9kI" target="_blank"><img src="http://img.youtube.com/vi/vbuawW6R9kI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 ## Week 2
 
