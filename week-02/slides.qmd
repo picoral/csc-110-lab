@@ -79,5 +79,8 @@ We can do the same with the `.format()` method, using `{}` as place holders for 
 ```
 
 
+# Short Project
+
+[Instructions for Short Project of the Week](short-project.html)
 
 
