@@ -12,3 +12,7 @@
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-02/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-02/short-project.html)
+
+## Week 3
+
+-   [Short Project](https://adrianapicoral.com/csc-110-lab/week-03/short-project.html)
