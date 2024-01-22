@@ -11,6 +11,7 @@
 ## Week 2
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-02/slides.html)
+-   <a href="https://youtu.be/ugvva5ES5xs" target="_blank">Video Demonstration -- Slides</a>
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-02/short-project.html)
 
 ## Week 3
