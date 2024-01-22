@@ -79,6 +79,28 @@ We can do the same with the `.format()` method, using `{}` as place holders for 
 ```
 
 
+## If statements
+
+We can use logical expressions in `if` statements to return different things from a function:
+
+```{python}
+#| echo: true
+#| eval: true
+def is_positive(number):
+  if number > 0:
+    return "Number is positive"
+  if number < 0:
+    return "Number is negative"
+  return "Number is zero"
+
+def main():
+  print( is_positive(10) )
+  print( is_positive(0) )
+  print( is_positive(-10) )
+  
+main()
+```
+
 # Short Project
 
 [Instructions for Short Project of the Week](short-project.html)

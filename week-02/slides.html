@@ -1275,6 +1275,30 @@ margin-right: 0; }
 </div>
 </div>
 </section>
+<section id="if-statements" class="slide level2">
+<h2>If statements</h2>
+<p>We can use logical expressions in <code>if</code> statements to return different things from a function:</p>
+<div class="cell" data-execution_count="8">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1"></a><span class="kw">def</span> is_positive(number):</span>
+<span id="cb13-2"><a href="#cb13-2"></a>  <span class="cf">if</span> number <span class="op">&gt;</span> <span class="dv">0</span>:</span>
+<span id="cb13-3"><a href="#cb13-3"></a>    <span class="cf">return</span> <span class="st">&quot;Number is positive&quot;</span></span>
+<span id="cb13-4"><a href="#cb13-4"></a>  <span class="cf">if</span> number <span class="op">&lt;</span> <span class="dv">0</span>:</span>
+<span id="cb13-5"><a href="#cb13-5"></a>    <span class="cf">return</span> <span class="st">&quot;Number is negative&quot;</span></span>
+<span id="cb13-6"><a href="#cb13-6"></a>  <span class="cf">return</span> <span class="st">&quot;Number is zero&quot;</span></span>
+<span id="cb13-7"><a href="#cb13-7"></a></span>
+<span id="cb13-8"><a href="#cb13-8"></a><span class="kw">def</span> main():</span>
+<span id="cb13-9"><a href="#cb13-9"></a>  <span class="bu">print</span>( is_positive(<span class="dv">10</span>) )</span>
+<span id="cb13-10"><a href="#cb13-10"></a>  <span class="bu">print</span>( is_positive(<span class="dv">0</span>) )</span>
+<span id="cb13-11"><a href="#cb13-11"></a>  <span class="bu">print</span>( is_positive(<span class="op">-</span><span class="dv">10</span>) )</span>
+<span id="cb13-12"><a href="#cb13-12"></a>  </span>
+<span id="cb13-13"><a href="#cb13-13"></a>main()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Number is positive
+Number is zero
+Number is negative</code></pre>
+</div>
+</div>
+</section>
 <section id="short-project" class="title-slide slide level1 center">
 <h1>Short Project</h1>
 <p><a href="short-project.html">Instructions for Short Project of the Week</a></p>
