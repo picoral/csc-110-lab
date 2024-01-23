@@ -66,4 +66,7 @@ amount = 10000000
 print("I have ${:,} in my pocket.".format(amount))
 ```
 
-## Short Project
+# Short Project
+
+[Instructions for Short Project of the Week](short-project.html)
+
