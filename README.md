@@ -18,3 +18,8 @@
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-03/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-03/short-project.html)
+
+## Week 4
+
+-   [Slides](https://adrianapicoral.com/csc-110-lab/week-43/slides.html)
+-   [Short Project](https://adrianapicoral.com/csc-110-lab/week-04/short-project.html)
