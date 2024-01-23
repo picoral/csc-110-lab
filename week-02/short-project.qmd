@@ -63,16 +63,16 @@ This function takes a total of four arguments, the first one is a string that te
 #| eval: false
 #| echo: true
 def main():
-    assert rectangle_area(4, 4.5) == 18.0
-    assert triangle_area(3, 4, 5) == 6.0
-    assert trapezoid_area(4, 20, 10) == 120.0
+    print( rectangle_area(4, 4.5) ) # 18.0
+    print( triangle_area(3, 4, 5) ) # 6.0
+    print( trapezoid_area(4, 20, 10) ) # 120.0
     assert circle_area(20) == 1256.6
 
     message = calculate_area("trapezoid", 11, 25, 5)
-    assert message == "The area of the trapezoid is 90.0"
+    print(message) # "The area of the trapezoid is 90.0"
     
     message = calculate_area("circle", 4, 0, 0)
-    assert message == "The area of the circle is 50.26"
+    print(messagege) # "The area of the circle is 50.26"
   
 main()
 ```
