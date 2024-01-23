@@ -21,5 +21,5 @@
 
 ## Week 4
 
--   [Slides](https://adrianapicoral.com/csc-110-lab/week-43/slides.html)
+-   [Slides](https://adrianapicoral.com/csc-110-lab/week-04/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-04/short-project.html)
