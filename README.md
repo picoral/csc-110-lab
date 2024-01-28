@@ -11,12 +11,13 @@
 ## Week 2
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-02/slides.html)
--   <a href="https://youtu.be/ugvva5ES5xs" target="_blank">Video Demonstration -- Slides</a>
+
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-02/short-project.html)
 
 ## Week 3
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-03/slides.html)
+-   <a href="https://youtu.be/7Ue7z6_6kao" target="_blank">Video Demonstration -- Slides</a>
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-03/short-project.html)
 
 ## Week 4
