@@ -61,7 +61,7 @@ def main():
 
   print(investment_years(50000, 10))
   # The investment of $50,000 will be 10 times larger in 48 years.
-
+  
 main()
 ```
 
