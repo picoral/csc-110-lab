@@ -3065,7 +3065,7 @@ vertical-align: -.125em;
 <section id="development-strategy" class="level2">
 <h2 class="anchored" data-anchor-id="development-strategy">Development Strategy</h2>
 <p>The easiest way to implement this is using two while loops (one for going to the left, another for going to the right). You have the starting point of the item you want to move (the <code>&quot;index&quot;</code>) – you need to find out where it needs to <code>end</code>.</p>
-<p>Your first guess for the <code>end</code> index should be minus one on the <code>index</code> if you are going to the <code>left</code> or plus one on the <code>index</code> if you are going to the right. In your while loop you have to check if you reached your <code>end</code> destination – meaning, you skip over the zeros until you either reach the beginning of the end of the list (depending on the direction you are going) or you found an item to replace (something that is different than zero).</p>
+<p>Your first guess for the <code>end</code> index should be minus one on the <code>index</code> if you are going to the <code>left</code> or plus one on the <code>index</code> if you are going to the <code>right</code>. In your while loop you need to keep subtracting one or adding one (depending on your direction) until you reach your <code>end</code> destination – meaning, you skip over the zeros until you either reach the beginning of the end of the list (depending on the direction you are going) or you found an item to replace (something that is different than zero).</p>
 </section>
 </section>
 
