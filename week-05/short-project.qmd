@@ -1,0 +1,44 @@
+---
+title: "CSC 110 Lab Week 5"
+format:
+  html:
+    embed-resources: true
+---
+
+# Move items in list
+
+In this short programming project you will be writing a function that takes a list, and index, and a direction (`"left"` or `"right"`) as arguments. The goal of the function is to move the item at index to the provided direction skipping over all zeros and taking the place of another item that is not zero.
+
+## Examples
+
+```{python}
+#| eval: false
+#| echo: true
+original_list = ["a", 0, 0, "b", "c", 0, 0]
+print( move_item(original_list, 3,  "left") )
+```
+
+<pre>
+['b', 0, 0, 0, 'c', 0, 0]
+</pre>
+
+```{python}
+#| eval: false
+#| echo: true
+original_list = ["a", 0, 0, "b", "c", 0, 0]
+print( move_item(original_list, 3, "right") )
+```
+
+<pre>
+['a', 0, 0, 0, 'b', 0, 0]
+</pre>
+
+```{python}
+#| eval: false
+#| echo: true
+print( move_item(original_list, 4, "right") ))
+```
+
+<pre>
+['a', 0, 0, 0, 0, 0, 'b']
+</pre>
