@@ -23,6 +23,7 @@
 ## Week 4
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-04/slides.html)
+-   <a href="https://youtu.be/Cg2IQWPqBns" target="_blank">Video Demonstration -- Slides</a>
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-04/short-project.html)
 
 
