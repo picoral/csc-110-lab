@@ -22,11 +22,15 @@
 
 ## Week 4
 
+February 6 to February 12
+
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-04/slides.html)
 -   <a href="https://youtu.be/Cg2IQWPqBns" target="_blank">Video Demonstration -- Slides</a>
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-04/short-project.html)
 
 
 ## Week 5
+
+February 13 to February 19
 
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-05/short-project.html)
