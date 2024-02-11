@@ -33,4 +33,5 @@ February 6 to February 12
 
 February 13 to February 19
 
+-   [Slides](https://adrianapicoral.com/csc-110-lab/week-05/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-05/short-project.html)

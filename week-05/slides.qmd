@@ -1,0 +1,63 @@
+---
+title: "Lists"
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+---
+
+## Lists
+
+You can access an item in a list using an index (just like we did for strings):
+
+```{python}
+#| eval: true
+#| echo: true
+my_list = [0, 0, 2, 0, 0, 1]
+```
+
+What's the index for value `2`?
+
+What's the index for value `1`?
+
+How do we move value `1` to where value `2` is, replacing `1` with zero so the list looks like this:
+
+```{python}
+#| eval: true
+#| echo: true
+my_list = [0, 0, 1, 0, 0, 0]
+```
+
+## Swapping list values
+
+We want to go from this: 
+
+```{python}
+#| eval: true
+#| echo: true
+my_list = [0, 0, 2, 0, 0, 1]
+```
+
+To this:
+
+```{python}
+#| eval: true
+#| echo: true
+my_list = [0, 0, 1, 0, 0, 0]
+```
+
+We do this:
+
+
+```{python}
+#| eval: true
+#| echo: true
+index_a = 2
+index_b = 5
+my_list[index_a] = my_list[index_b]
+my_list[index_b] = 0
+```
+
+# Short Project
+
+[Instructions for Short Project of the Week](short-project.html)
