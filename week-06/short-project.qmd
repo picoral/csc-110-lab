@@ -9,6 +9,8 @@ format:
 
 In this short project, you will create a 2D list or random integers using the `.append()` method and nested loops (meaning, a loop inside a loop).
 
+Name your file `create_two_d_list.py`.
+
 Remember to import `random` and set the seed to `123`.
 
 Your function should take a `width` and `length` as arguments. The length represents how many sublists you need in your main list. The width is the length of each individual sublist (they are all the same length). Each element in your sublist will be a random integer between 0 and 100.
