@@ -1,16 +1,18 @@
 ---
 title: "CSC 110 Lab Week 7"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 # Counting Names
 
-In this lab session, you will be using [starter code](count_names.py) which contains a function to read a file that contains names and numbers separated by comma (a csv or comma separated file). The function that reads the file and returns a list is already implemented for you.
+In this lab session, you will be using [starter code](count_names.py) which contains a function to read a file that contains names and numbers separated by comma (a csv or comma separated file). The function that reads the file and returns a list is already implemented for you. You also need to download [the text file with the data](names_and_numbers.txt) to run your code (make sure your `.py` file and your `.txt` file are in the same folder, and that you have the folder open on VS code)
 
 You are implement three other functions:
 
-* `count_names` that takes as argument a list of strings that could be converted to integers, floats, or are just names and returns a dictionary of only the names as keys, and counts as values
-* `find_name` that takes as argument the dictionary you created the previous function, and a string representing a name. This function returns two types of message (string) depending on whether the name argument is a key in the counts dictionary:
+* `count_names` that takes as argument a list of strings that could be converted to integers, floats, or are just names and returns a dictionary of **only the names** as keys, and counts as values
+* `find_name` that takes as argument the dictionary you returned from the previous function, and a string representing a name. This function returns two types of message (string) depending on whether the name argument is a key in the counts dictionary:
   * The name X occurs N times.
   * X not found.
 * `get_most_common_name` that takes as argument the dictionary of name counts, and returns a string with a message: `The name X occurs N times.`

@@ -47,4 +47,5 @@ February 20 to February 26
 
 March 11 to March 15
 
+-   [Slides](https://adrianapicoral.com/csc-110-lab/week-07/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-07/short-project.html)
