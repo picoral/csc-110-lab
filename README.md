@@ -49,3 +49,15 @@ March 11 to March 15
 
 -   [Slides](https://adrianapicoral.com/csc-110-lab/week-07/slides.html)
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-07/short-project.html)
+
+## Week 8
+
+March 18 to March 22
+
+Catch up week -- students can get an extension on ONE short project
+
+## Week 9
+
+March 25 to March 29
+
+-   [Short Project](https://adrianapicoral.com/csc-110-lab/week-09/short-project.html)
