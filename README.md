@@ -61,3 +61,9 @@ Catch up week -- students can get an extension on ONE short project
 March 25 to March 29
 
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-09/short-project.html)
+
+## Week 10
+
+April 1 to April 5
+
+-   [Short Project](https://adrianapicoral.com/csc-110-lab/week-10/short-project.html)
