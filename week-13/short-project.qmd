@@ -1,0 +1,9 @@
+---
+title: "CSC 110 Lab Week 13"
+format:
+  html:
+    embed-resources: true
+---
+
+## Simplified word search
+
