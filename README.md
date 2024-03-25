@@ -73,3 +73,7 @@ April 1 to April 5
 April 8 to April 12
 
 -   [Short Project](https://adrianapicoral.com/csc-110-lab/week-11/short-project.html)
+
+## Week 12
+
+Catch up week -- students can get an extension on ONE short project
