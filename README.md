@@ -76,4 +76,13 @@ April 8 to April 12
 
 ## Week 12
 
+April 15 to April 19
+
 Catch up week -- students can get an extension on ONE short project
+
+## Week 13
+
+April 22 to April 26
+
+-   [Slides](https://adrianapicoral.com/csc-110-lab/week-13/slides.html)
+-   [Short Project](https://adrianapicoral.com/csc-110-lab/week-13/short-project.html)
