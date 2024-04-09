@@ -9,6 +9,8 @@ format:
 
 In this lab session we are going to focus on modularity.
 
+Name your file `look_around.py`
+
 You first will implement a function to make a grid (2D list) of all 'o' (single lower letter o character) of width (number of elements in each sublist) and height dimentions (number of rows).
 
 ```{python}
