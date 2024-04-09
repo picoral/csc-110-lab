@@ -16,6 +16,8 @@ You first will implement a function to make a grid (2D list) of all 'o' (single 
 ```{python}
 #| eval: false
 #| echo: true
+
+# make_grid(width, height)
 my_grid = make_grid(9, 9)
 assert my_grid == [['o', 'o', 'o', 'o', 'o', 'o', 'o', 'o', 'o'],
                    ['o', 'o', 'o', 'o', 'o', 'o', 'o', 'o', 'o'],
@@ -57,6 +59,7 @@ Call your function `mark_around` because the idea is that you are marking the gr
 #| eval: false
 #| echo: true
 my_grid = make_grid(9, 9)
+# mark_around(grid, x, y)
 mark_around(my_grid, 4, 4)
 print_grid(my_grid)
 ```
