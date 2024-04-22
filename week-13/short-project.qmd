@@ -52,6 +52,11 @@ The puzzle file could have more or less Rows/Columns depending on each test case
 The program should return a dictionary with the starting row and column location for each word found. Your code should have a function called `simple_search` that returns this dictionary. The formatting of the return dictionary should be something like:
 
 ```{python}
+#| echo: true
+#| eval: false
 {"high": [2, 2] , "america": [6, 2] , "wood": [0, 0]}
 ```
 
+## Function names
+
+Gradescope will call the following functions `read_words(filename)`, `read_puzzle(filename)`, and `search(puzzle, words_to_search)`.
