@@ -8,7 +8,7 @@ format:
 
 ## Lists
 
-You can access an item in a list using an index (just like we did for strings):
+You can access an item in a list using an index (just like what we did for strings):
 
 ```{python}
 #| eval: true
