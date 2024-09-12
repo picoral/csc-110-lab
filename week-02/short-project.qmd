@@ -72,7 +72,7 @@ def main():
     print(message) # "The area of the trapezoid is 90.0"
     
     message = calculate_area("circle", 4, 0, 0)
-    print(messagege) # "The area of the circle is 50.26"
+    print(message) # "The area of the circle is 50.26"
   
 main()
 ```
